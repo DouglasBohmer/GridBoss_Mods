@@ -1,0 +1,482 @@
+[
+  {
+    "rodada": 1,
+    "nome": "Formula 1 Gulf Air Bahrain Grand Prix",
+    "pais": "Bahrain",
+    "tipo": "MISTO_PERMANENTE",
+    "qtdVoltas": 57,
+    "comprimentoKm": 5.412,
+    "tempoBase": 96.0,
+    "dificuldadeUltrapassagem": 40,
+    "relevanciaMotor": 0.65,
+    "relevanciaAerodinamica": 0.35,
+    "fatorDesgastePneu": 1.8,
+    "fatorConsumoCombustivel": 1.0,
+    "chanceSafetyCar": 20.0,
+    "tempoPerdidoPitLane": 24.0,
+    "arquivos": {
+      "traçado": "/resource/Circuito Bahrain.svg",
+      "bandeira": "/resource/Bandeira Bahrain.svg"
+    }
+  },
+  {
+    "rodada": 2,
+    "nome": "Formula 1 STC Saudi Arabian Grand Prix",
+    "pais": "Arabia Saudita",
+    "tipo": "RUA_TEMPORARIO",
+    "qtdVoltas": 50,
+    "comprimentoKm": 6.175,
+    "tempoBase": 94.0,
+    "dificuldadeUltrapassagem": 55,
+    "relevanciaMotor": 0.80,
+    "relevanciaAerodinamica": 0.40,
+    "fatorDesgastePneu": 1.5,
+    "fatorConsumoCombustivel": 1.1,
+    "chanceSafetyCar": 60.0,
+    "tempoPerdidoPitLane": 22.0,
+    "arquivos": {
+      "traçado": "/resource/Circuito Jeddah.svg",
+      "bandeira": "/resource/Bandeira Arabia Saudita.svg"
+    }
+  },
+  {
+    "rodada": 3,
+    "nome": "Formula 1 Rolex Australian Grand Prix",
+    "pais": "Australia",
+    "tipo": "RUA_TEMPORARIO",
+    "qtdVoltas": 58,
+    "comprimentoKm": 5.278,
+    "tempoBase": 85.0,
+    "dificuldadeUltrapassagem": 60,
+    "relevanciaMotor": 0.60,
+    "relevanciaAerodinamica": 0.50,
+    "fatorDesgastePneu": 1.4,
+    "fatorConsumoCombustivel": 1.3,
+    "chanceSafetyCar": 70.0,
+    "tempoPerdidoPitLane": 21.0,
+    "arquivos": {
+      "traçado": "/resource/Circuito Melbourne2021+.svg",
+      "bandeira": "/resource/Bandeira Australia.svg"
+    }
+  },
+  {
+    "rodada": 4,
+    "nome": "Formula 1 MSC Cruises Japanese Grand Prix",
+    "pais": "Japao",
+    "tipo": "MISTO_PERMANENTE",
+    "qtdVoltas": 53,
+    "comprimentoKm": 5.807,
+    "tempoBase": 95.0,
+    "dificuldadeUltrapassagem": 70,
+    "relevanciaMotor": 0.40,
+    "relevanciaAerodinamica": 0.90,
+    "fatorDesgastePneu": 2.2,
+    "fatorConsumoCombustivel": 1.2,
+    "chanceSafetyCar": 30.0,
+    "tempoPerdidoPitLane": 23.0,
+    "arquivos": {
+      "traçado": "/resource/Circuito Suzuka.svg",
+      "bandeira": "/resource/Bandeira Japao.svg"
+    }
+  },
+  {
+    "rodada": 5,
+    "nome": "Formula 1 Lenovo Chinese Grand Prix",
+    "pais": "China",
+    "tipo": "MISTO_PERMANENTE",
+    "qtdVoltas": 56,
+    "comprimentoKm": 5.451,
+    "tempoBase": 97.0,
+    "dificuldadeUltrapassagem": 35,
+    "relevanciaMotor": 0.60,
+    "relevanciaAerodinamica": 0.60,
+    "fatorDesgastePneu": 1.9,
+    "fatorConsumoCombustivel": 1.1,
+    "chanceSafetyCar": 40.0,
+    "tempoPerdidoPitLane": 24.0,
+    "arquivos": {
+      "traçado": "/resource/Circuito Shangai.svg",
+      "bandeira": "/resource/Bandeira China.svg"
+    }
+  },
+  {
+    "rodada": 6,
+    "nome": "Formula 1 Crypto.com Miami Grand Prix",
+    "pais": "EUA",
+    "tipo": "RUA_TEMPORARIO",
+    "qtdVoltas": 57,
+    "comprimentoKm": 5.412,
+    "tempoBase": 94.0,
+    "dificuldadeUltrapassagem": 50,
+    "relevanciaMotor": 0.70,
+    "relevanciaAerodinamica": 0.40,
+    "fatorDesgastePneu": 1.3,
+    "fatorConsumoCombustivel": 1.0,
+    "chanceSafetyCar": 45.0,
+    "tempoPerdidoPitLane": 21.0,
+    "arquivos": {
+      "traçado": "/resource/Circuito Miami.svg",
+      "bandeira": "/resource/Bandeira EUA.svg"
+    }
+  },
+  {
+    "rodada": 7,
+    "nome": "Formula 1 MSC Cruises Gran Premio dell'Emilia-Romagna",
+    "pais": "Italia",
+    "tipo": "MISTO_PERMANENTE",
+    "qtdVoltas": 63,
+    "comprimentoKm": 4.909,
+    "tempoBase": 80.0,
+    "dificuldadeUltrapassagem": 80,
+    "relevanciaMotor": 0.50,
+    "relevanciaAerodinamica": 0.70,
+    "fatorDesgastePneu": 1.6,
+    "fatorConsumoCombustivel": 1.1,
+    "chanceSafetyCar": 50.0,
+    "tempoPerdidoPitLane": 25.0,
+    "arquivos": {
+      "traçado": "/resource/Circuito Imola2008+.svg",
+      "bandeira": "/resource/Bandeira Italia.svg"
+    }
+  },
+  {
+    "rodada": 8,
+    "nome": "Formula 1 Grand Prix de Monaco",
+    "pais": "Monaco",
+    "tipo": "RUA_TEMPORARIO",
+    "qtdVoltas": 78,
+    "comprimentoKm": 3.337,
+    "tempoBase": 78.0,
+    "dificuldadeUltrapassagem": 100,
+    "relevanciaMotor": 0.10,
+    "relevanciaAerodinamica": 1.00,
+    "fatorDesgastePneu": 1.1,
+    "fatorConsumoCombustivel": 0.8,
+    "chanceSafetyCar": 85.0,
+    "tempoPerdidoPitLane": 20.0,
+    "arquivos": {
+      "traçado": "/resource/Circuito Monaco.svg",
+      "bandeira": "/resource/Bandeira Monaco.svg"
+    }
+  },
+  {
+    "rodada": 9,
+    "nome": "Formula 1 AWS Grand Prix du Canada",
+    "pais": "Canada",
+    "tipo": "MISTO_PERMANENTE",
+    "qtdVoltas": 70,
+    "comprimentoKm": 4.361,
+    "tempoBase": 78.0,
+    "dificuldadeUltrapassagem": 40,
+    "relevanciaMotor": 0.75,
+    "relevanciaAerodinamica": 0.25,
+    "fatorDesgastePneu": 1.4,
+    "fatorConsumoCombustivel": 1.4,
+    "chanceSafetyCar": 65.0,
+    "tempoPerdidoPitLane": 19.0,
+    "arquivos": {
+      "traçado": "/resource/Circuito Montreal.svg",
+      "bandeira": "/resource/Bandeira Canada.svg"
+    }
+  },
+  {
+    "rodada": 10,
+    "nome": "Formula 1 Aramco Gran Premio de España",
+    "pais": "Espanha",
+    "tipo": "MISTO_PERMANENTE",
+    "qtdVoltas": 66,
+    "comprimentoKm": 4.657,
+    "tempoBase": 81.0,
+    "dificuldadeUltrapassagem": 60,
+    "relevanciaMotor": 0.40,
+    "relevanciaAerodinamica": 0.80,
+    "fatorDesgastePneu": 2.1,
+    "fatorConsumoCombustivel": 1.1,
+    "chanceSafetyCar": 20.0,
+    "tempoPerdidoPitLane": 22.0,
+    "arquivos": {
+      "traçado": "/resource/Circuito Catalunha2023+.svg",
+      "bandeira": "/resource/Bandeira Espanha.svg"
+    }
+  },
+  {
+    "rodada": 11,
+    "nome": "Formula 1 Qatar Airways Austrian Grand Prix",
+    "pais": "Austria",
+    "tipo": "MISTO_PERMANENTE",
+    "qtdVoltas": 71,
+    "comprimentoKm": 4.318,
+    "tempoBase": 70.0,
+    "dificuldadeUltrapassagem": 35,
+    "relevanciaMotor": 0.65,
+    "relevanciaAerodinamica": 0.45,
+    "fatorDesgastePneu": 1.7,
+    "fatorConsumoCombustivel": 1.2,
+    "chanceSafetyCar": 40.0,
+    "tempoPerdidoPitLane": 21.0,
+    "arquivos": {
+      "traçado": "/resource/Circuito Austria2016+.svg",
+      "bandeira": "/resource/Bandeira Austria.svg"
+    }
+  },
+  {
+    "rodada": 12,
+    "nome": "Formula 1 Qatar Airways British Grand Prix",
+    "pais": "Reino Unido",
+    "tipo": "MISTO_PERMANENTE",
+    "qtdVoltas": 52,
+    "comprimentoKm": 5.891,
+    "tempoBase": 92.0,
+    "dificuldadeUltrapassagem": 45,
+    "relevanciaMotor": 0.50,
+    "relevanciaAerodinamica": 0.85,
+    "fatorDesgastePneu": 2.3,
+    "fatorConsumoCombustivel": 1.1,
+    "chanceSafetyCar": 35.0,
+    "tempoPerdidoPitLane": 24.0,
+    "arquivos": {
+      "traçado": "/resource/Circuito Silverstone2010+.svg",
+      "bandeira": "/resource/Bandeira Reino Unido.svg"
+    }
+  },
+  {
+    "rodada": 13,
+    "nome": "Formula 1 Hungarian Grand Prix",
+    "pais": "Hungria",
+    "tipo": "MISTO_PERMANENTE",
+    "qtdVoltas": 70,
+    "comprimentoKm": 4.381,
+    "tempoBase": 81.0,
+    "dificuldadeUltrapassagem": 85,
+    "relevanciaMotor": 0.20,
+    "relevanciaAerodinamica": 0.90,
+    "fatorDesgastePneu": 1.6,
+    "fatorConsumoCombustivel": 1.0,
+    "chanceSafetyCar": 25.0,
+    "tempoPerdidoPitLane": 20.0,
+    "arquivos": {
+      "traçado": "/resource/Circuito Hungaroring2003+.svg",
+      "bandeira": "/resource/Bandeira Hungria.svg"
+    }
+  },
+  {
+    "rodada": 14,
+    "nome": "Formula 1 Rolex Belgian Grand Prix",
+    "pais": "Belgica",
+    "tipo": "MISTO_PERMANENTE",
+    "qtdVoltas": 44,
+    "comprimentoKm": 7.004,
+    "tempoBase": 110.0,
+    "dificuldadeUltrapassagem": 30,
+    "relevanciaMotor": 0.80,
+    "relevanciaAerodinamica": 0.60,
+    "fatorDesgastePneu": 2.1,
+    "fatorConsumoCombustivel": 1.4,
+    "chanceSafetyCar": 45.0,
+    "tempoPerdidoPitLane": 20.0,
+    "arquivos": {
+      "traçado": "/resource/Circuito Spa2007+.svg",
+      "bandeira": "/resource/Bandeira Belgica.svg"
+    }
+  },
+  {
+    "rodada": 15,
+    "nome": "Formula 1 Heineken Dutch Grand Prix",
+    "pais": "Holanda",
+    "tipo": "MISTO_PERMANENTE",
+    "qtdVoltas": 72,
+    "comprimentoKm": 4.259,
+    "tempoBase": 76.0,
+    "dificuldadeUltrapassagem": 75,
+    "relevanciaMotor": 0.30,
+    "relevanciaAerodinamica": 0.80,
+    "fatorDesgastePneu": 1.9,
+    "fatorConsumoCombustivel": 1.1,
+    "chanceSafetyCar": 40.0,
+    "tempoPerdidoPitLane": 18.0,
+    "arquivos": {
+      "traçado": "/resource/Circuito Zandvoort.svg",
+      "bandeira": "/resource/Bandeira Holanda.svg"
+    }
+  },
+  {
+    "rodada": 16,
+    "nome": "Formula 1 Pirelli Gran Premio d'Italia",
+    "pais": "Italia",
+    "tipo": "MISTO_PERMANENTE",
+    "qtdVoltas": 53,
+    "comprimentoKm": 5.793,
+    "tempoBase": 85.0,
+    "dificuldadeUltrapassagem": 35,
+    "relevanciaMotor": 0.95,
+    "relevanciaAerodinamica": 0.15,
+    "fatorDesgastePneu": 1.5,
+    "fatorConsumoCombustivel": 1.3,
+    "chanceSafetyCar": 30.0,
+    "tempoPerdidoPitLane": 24.0,
+    "arquivos": {
+      "traçado": "/resource/Circuito Monza.svg",
+      "bandeira": "/resource/Bandeira Italia.svg"
+    }
+  },
+  {
+    "rodada": 17,
+    "nome": "Formula 1 Qatar Airways Azerbaijan Grand Prix",
+    "pais": "Azerbaijao",
+    "tipo": "RUA_TEMPORARIO",
+    "qtdVoltas": 51,
+    "comprimentoKm": 6.003,
+    "tempoBase": 108.0,
+    "dificuldadeUltrapassagem": 30,
+    "relevanciaMotor": 0.85,
+    "relevanciaAerodinamica": 0.30,
+    "fatorDesgastePneu": 1.4,
+    "fatorConsumoCombustivel": 1.4,
+    "chanceSafetyCar": 65.0,
+    "tempoPerdidoPitLane": 22.0,
+    "arquivos": {
+      "traçado": "/resource/Circuito Baku.svg",
+      "bandeira": "/resource/Bandeira Azerbaijao.svg"
+    }
+  },
+  {
+    "rodada": 18,
+    "nome": "Formula 1 Singapore Airlines Singapore Grand Prix",
+    "pais": "Singapura",
+    "tipo": "RUA_TEMPORARIO",
+    "qtdVoltas": 62,
+    "comprimentoKm": 4.940,
+    "tempoBase": 100.0,
+    "dificuldadeUltrapassagem": 80,
+    "relevanciaMotor": 0.30,
+    "relevanciaAerodinamica": 0.90,
+    "fatorDesgastePneu": 1.7,
+    "fatorConsumoCombustivel": 1.5,
+    "chanceSafetyCar": 100.0,
+    "tempoPerdidoPitLane": 28.0,
+    "arquivos": {
+      "traçado": "/resource/Circuito Singapura2023+.svg",
+      "bandeira": "/resource/Bandeira Singapura.svg"
+    }
+  },
+  {
+    "rodada": 19,
+    "nome": "Formula 1 Pirelli United States Grand Prix",
+    "pais": "EUA",
+    "tipo": "MISTO_PERMANENTE",
+    "qtdVoltas": 56,
+    "comprimentoKm": 5.513,
+    "tempoBase": 101.0,
+    "dificuldadeUltrapassagem": 40,
+    "relevanciaMotor": 0.55,
+    "relevanciaAerodinamica": 0.65,
+    "fatorDesgastePneu": 2.0,
+    "fatorConsumoCombustivel": 1.1,
+    "chanceSafetyCar": 40.0,
+    "tempoPerdidoPitLane": 22.0,
+    "arquivos": {
+      "traçado": "/resource/Circuito Austin.svg",
+      "bandeira": "/resource/Bandeira EUA.svg"
+    }
+  },
+  {
+    "rodada": 20,
+    "nome": "Formula 1 Gran Premio de la Ciudad de México",
+    "pais": "Mexico",
+    "tipo": "MISTO_PERMANENTE",
+    "qtdVoltas": 71,
+    "comprimentoKm": 4.304,
+    "tempoBase": 82.0,
+    "dificuldadeUltrapassagem": 65,
+    "relevanciaMotor": 0.60,
+    "relevanciaAerodinamica": 0.80,
+    "fatorDesgastePneu": 1.4,
+    "fatorConsumoCombustivel": 1.0,
+    "chanceSafetyCar": 45.0,
+    "tempoPerdidoPitLane": 23.0,
+    "arquivos": {
+      "traçado": "/resource/Circuito Mexico.svg",
+      "bandeira": "/resource/Bandeira Mexico.svg"
+    }
+  },
+  {
+    "rodada": 21,
+    "nome": "Formula 1 Lenovo Grande Prêmio de São Paulo",
+    "pais": "Brasil",
+    "tipo": "MISTO_PERMANENTE",
+    "qtdVoltas": 71,
+    "comprimentoKm": 4.309,
+    "tempoBase": 75.0,
+    "dificuldadeUltrapassagem": 40,
+    "relevanciaMotor": 0.60,
+    "relevanciaAerodinamica": 0.50,
+    "fatorDesgastePneu": 1.8,
+    "fatorConsumoCombustivel": 1.1,
+    "chanceSafetyCar": 60.0,
+    "tempoPerdidoPitLane": 21.0,
+    "arquivos": {
+      "traçado": "/resource/Circuito Interlagos.svg",
+      "bandeira": "/resource/Bandeira Brasil.svg"
+    }
+  },
+  {
+    "rodada": 22,
+    "nome": "Formula 1 Heineken Silver Las Vegas Grand Prix",
+    "pais": "EUA",
+    "tipo": "RUA_TEMPORARIO",
+    "qtdVoltas": 50,
+    "comprimentoKm": 6.201,
+    "tempoBase": 100.0,
+    "dificuldadeUltrapassagem": 30,
+    "relevanciaMotor": 0.85,
+    "relevanciaAerodinamica": 0.30,
+    "fatorDesgastePneu": 1.5,
+    "fatorConsumoCombustivel": 1.2,
+    "chanceSafetyCar": 55.0,
+    "tempoPerdidoPitLane": 23.0,
+    "arquivos": {
+      "traçado": "/resource/Circuito Las Vegas.svg",
+      "bandeira": "/resource/Bandeira EUA.svg"
+    }
+  },
+  {
+    "rodada": 23,
+    "nome": "Formula 1 Qatar Airways Qatar Grand Prix",
+    "pais": "Qatar",
+    "tipo": "MISTO_PERMANENTE",
+    "qtdVoltas": 57,
+    "comprimentoKm": 5.380,
+    "tempoBase": 89.0,
+    "dificuldadeUltrapassagem": 55,
+    "relevanciaMotor": 0.50,
+    "relevanciaAerodinamica": 0.50,
+    "fatorDesgastePneu": 2.0,
+    "fatorConsumoCombustivel": 1.0,
+    "chanceSafetyCar": 25.0,
+    "tempoPerdidoPitLane": 24.0,
+    "arquivos": {
+      "traçado": "/resource/Circuito Lusail.svg",
+      "bandeira": "/resource/Bandeira Qatar.svg"
+    }
+  },
+  {
+    "rodada": 24,
+    "nome": "Formula 1 Etihad Airways Abu Dhabi Grand Prix",
+    "pais": "Emirados Arabes Unidos",
+    "tipo": "MISTO_PERMANENTE",
+    "qtdVoltas": 58,
+    "comprimentoKm": 5.281,
+    "tempoBase": 91.0,
+    "dificuldadeUltrapassagem": 50,
+    "relevanciaMotor": 0.55,
+    "relevanciaAerodinamica": 0.60,
+    "fatorDesgastePneu": 1.6,
+    "fatorConsumoCombustivel": 1.1,
+    "chanceSafetyCar": 30.0,
+    "tempoPerdidoPitLane": 22.0,
+    "arquivos": {
+      "traçado": "/resource/Circuito YasMarina2021+.svg",
+      "bandeira": "/resource/Bandeira Emirados Arabes Unidos.svg"
+    }
+  }
+]

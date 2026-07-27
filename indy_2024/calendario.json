@@ -1,0 +1,359 @@
+[
+  {
+    "rodada": 1,
+    "nome": "St. Petersburg",
+    "etapa": "Grand Prix of St. Petersburg",
+    "pais": "EUA",
+    "tipo": "RUA_TEMPORARIO",
+    "qtdVoltas": 100,
+    "comprimentoKm": 2.897,
+    "tempoBase": 62.0,
+    "dificuldadeUltrapassagem": 50,
+    "relevanciaMotor": 0.60,
+    "relevanciaAerodinamica": 0.40,
+    "fatorDesgastePneu": 1.4,
+    "fatorConsumoCombustivel": 1.1,
+    "chanceSafetyCar": 70.0,
+    "tempoPerdidoPitLane": 22.0,
+    "arquivos": {
+      "traçado": "/resource/Circuito St Petersburg.svg",
+      "bandeira": "/resource/Bandeira Estados Unidos.svg"
+    }
+  },
+  {
+    "rodada": 2,
+    "nome": "Long Beach",
+    "etapa": "Grand Prix of Long Beach",
+    "pais": "EUA",
+    "tipo": "RUA_TEMPORARIO",
+    "qtdVoltas": 85,
+    "comprimentoKm": 3.167,
+    "tempoBase": 68.0,
+    "dificuldadeUltrapassagem": 60,
+    "relevanciaMotor": 0.55,
+    "relevanciaAerodinamica": 0.45,
+    "fatorDesgastePneu": 1.3,
+    "fatorConsumoCombustivel": 1.2,
+    "chanceSafetyCar": 65.0,
+    "tempoPerdidoPitLane": 20.0,
+    "arquivos": {
+      "traçado": "/resource/Circuito Long Beach.svg",
+      "bandeira": "/resource/Bandeira Estados Unidos.svg"
+    }
+  },
+  {
+    "rodada": 3,
+    "nome": "Barber Motorsports Park",
+    "etapa": "Grand Prix of Alabama",
+    "pais": "EUA",
+    "tipo": "MISTO_PERMANENTE",
+    "qtdVoltas": 90,
+    "comprimentoKm": 3.830,
+    "tempoBase": 68.0,
+    "dificuldadeUltrapassagem": 75,
+    "relevanciaMotor": 0.50,
+    "relevanciaAerodinamica": 0.50,
+    "fatorDesgastePneu": 1.5,
+    "fatorConsumoCombustivel": 1.0,
+    "chanceSafetyCar": 40.0,
+    "tempoPerdidoPitLane": 23.0,
+    "arquivos": {
+      "traçado": "/resource/Circuito Barber.svg",
+      "bandeira": "/resource/Bandeira Estados Unidos.svg"
+    }
+  },
+  {
+    "rodada": 4,
+    "nome": "Indianapolis Motor Speedway",
+    "etapa": "Sonsio Grand Prix",
+    "pais": "EUA",
+    "tipo": "MISTO_PERMANENTE",
+    "qtdVoltas": 85,
+    "comprimentoKm": 3.925,
+    "tempoBase": 72.0,
+    "dificuldadeUltrapassagem": 45,
+    "relevanciaMotor": 0.65,
+    "relevanciaAerodinamica": 0.35,
+    "fatorDesgastePneu": 1.4,
+    "fatorConsumoCombustivel": 1.0,
+    "chanceSafetyCar": 30.0,
+    "tempoPerdidoPitLane": 24.0,
+    "arquivos": {
+      "traçado": "/resource/Circuito Indianapolis Misto Indy.svg",
+      "bandeira": "/resource/Bandeira Estados Unidos.svg"
+    }
+  },
+  {
+    "rodada": 5,
+    "nome": "Indianapolis Motor Speedway",
+    "etapa": "108th Running of the Indy 500",
+    "pais": "EUA",
+    "tipo": "OVAL_SPEEDWAY",
+    "qtdVoltas": 200,
+    "comprimentoKm": 4.000,
+    "tempoBase": 41.0,
+    "dificuldadeUltrapassagem": 40,
+    "relevanciaMotor": 0.95,
+    "relevanciaAerodinamica": 0.05,
+    "fatorDesgastePneu": 1.2,
+    "fatorConsumoCombustivel": 1.5,
+    "chanceSafetyCar": 60.0,
+    "tempoPerdidoPitLane": 25.0,
+    "arquivos": {
+      "traçado": "/resource/Circuito Indy500.svg",
+      "bandeira": "/resource/Bandeira Estados Unidos.svg"
+    }
+  },
+  {
+    "rodada": 6,
+    "nome": "Detroit Street Circuit",
+    "etapa": "Detroit Grand Prix",
+    "pais": "EUA",
+    "tipo": "RUA_TEMPORARIO",
+    "qtdVoltas": 100,
+    "comprimentoKm": 2.647,
+    "tempoBase": 63.0,
+    "dificuldadeUltrapassagem": 80,
+    "relevanciaMotor": 0.40,
+    "relevanciaAerodinamica": 0.60,
+    "fatorDesgastePneu": 1.6,
+    "fatorConsumoCombustivel": 1.1,
+    "chanceSafetyCar": 85.0,
+    "tempoPerdidoPitLane": 21.0,
+    "arquivos": {
+      "traçado": "/resource/Circuito Detroit Indy.svg",
+      "bandeira": "/resource/Bandeira Estados Unidos.svg"
+    }
+  },
+  {
+    "rodada": 7,
+    "nome": "Road America",
+    "etapa": "Grand Prix of Road America",
+    "pais": "EUA",
+    "tipo": "MISTO_PERMANENTE",
+    "qtdVoltas": 55,
+    "comprimentoKm": 6.515,
+    "tempoBase": 105.0,
+    "dificuldadeUltrapassagem": 35,
+    "relevanciaMotor": 0.70,
+    "relevanciaAerodinamica": 0.30,
+    "fatorDesgastePneu": 1.5,
+    "fatorConsumoCombustivel": 1.3,
+    "chanceSafetyCar": 45.0,
+    "tempoPerdidoPitLane": 26.0,
+    "arquivos": {
+      "traçado": "/resource/Circuito Road America.svg",
+      "bandeira": "/resource/Bandeira Estados Unidos.svg"
+    }
+  },
+  {
+    "rodada": 8,
+    "nome": "Laguna Seca",
+    "etapa": "Grand Prix of Monterey",
+    "pais": "EUA",
+    "tipo": "MISTO_PERMANENTE",
+    "qtdVoltas": 95,
+    "comprimentoKm": 3.602,
+    "tempoBase": 69.0,
+    "dificuldadeUltrapassagem": 80,
+    "relevanciaMotor": 0.45,
+    "relevanciaAerodinamica": 0.55,
+    "fatorDesgastePneu": 1.8,
+    "fatorConsumoCombustivel": 1.0,
+    "chanceSafetyCar": 50.0,
+    "tempoPerdidoPitLane": 21.0,
+    "arquivos": {
+      "traçado": "/resource/Circuito Laguna Seca.svg",
+      "bandeira": "/resource/Bandeira Estados Unidos.svg"
+    }
+  },
+  {
+    "rodada": 9,
+    "nome": "Mid-Ohio Sports Car Course",
+    "etapa": "Honda Indy 200",
+    "pais": "EUA",
+    "tipo": "MISTO_PERMANENTE",
+    "qtdVoltas": 90,
+    "comprimentoKm": 3.860,
+    "tempoBase": 68.0,
+    "dificuldadeUltrapassagem": 65,
+    "relevanciaMotor": 0.50,
+    "relevanciaAerodinamica": 0.50,
+    "fatorDesgastePneu": 1.3,
+    "fatorConsumoCombustivel": 1.0,
+    "chanceSafetyCar": 35.0,
+    "tempoPerdidoPitLane": 22.0,
+    "arquivos": {
+      "traçado": "/resource/Circuito Mid Ohio.svg",
+      "bandeira": "/resource/Bandeira Estados Unidos.svg"
+    }
+  },
+  {
+    "rodada": 10,
+    "nome": "Iowa Speedway",
+    "etapa": "Hy-Vee Homefront 250",
+    "pais": "EUA",
+    "tipo": "OVAL_CURTO",
+    "qtdVoltas": 250,
+    "comprimentoKm": 1.438,
+    "tempoBase": 19.0,
+    "dificuldadeUltrapassagem": 70,
+    "relevanciaMotor": 0.80,
+    "relevanciaAerodinamica": 0.20,
+    "fatorDesgastePneu": 1.9,
+    "fatorConsumoCombustivel": 1.2,
+    "chanceSafetyCar": 55.0,
+    "tempoPerdidoPitLane": 18.0,
+    "arquivos": {
+      "traçado": "/resource/Circuito Iowa.svg",
+      "bandeira": "/resource/Bandeira Estados Unidos.svg"
+    }
+  },
+  {
+    "rodada": 11,
+    "nome": "Iowa Speedway",
+    "etapa": "Hy-Vee One Step 250",
+    "pais": "EUA",
+    "tipo": "OVAL_CURTO",
+    "qtdVoltas": 250,
+    "comprimentoKm": 1.438,
+    "tempoBase": 19.0,
+    "dificuldadeUltrapassagem": 70,
+    "relevanciaMotor": 0.80,
+    "relevanciaAerodinamica": 0.20,
+    "fatorDesgastePneu": 1.9,
+    "fatorConsumoCombustivel": 1.2,
+    "chanceSafetyCar": 55.0,
+    "tempoPerdidoPitLane": 18.0,
+    "arquivos": {
+      "traçado": "/resource/Circuito Iowa.svg",
+      "bandeira": "/resource/Bandeira Estados Unidos.svg"
+    }
+  },
+  {
+    "rodada": 12,
+    "nome": "Exhibition Place",
+    "etapa": "Honda Indy Toronto",
+    "pais": "Canada",
+    "tipo": "RUA_TEMPORARIO",
+    "qtdVoltas": 90,
+    "comprimentoKm": 2.874,
+    "tempoBase": 62.0,
+    "dificuldadeUltrapassagem": 75,
+    "relevanciaMotor": 0.45,
+    "relevanciaAerodinamica": 0.55,
+    "fatorDesgastePneu": 1.4,
+    "fatorConsumoCombustivel": 1.1,
+    "chanceSafetyCar": 75.0,
+    "tempoPerdidoPitLane": 21.0,
+    "arquivos": {
+      "traçado": "/resource/Circuito Toronto.svg",
+      "bandeira": "/resource/Bandeira Canada.svg"
+    }
+  },
+  {
+    "rodada": 13,
+    "nome": "World Wide Technology Raceway",
+    "etapa": "Bommarito Automotive Group 500",
+    "pais": "EUA",
+    "tipo": "OVAL_SPEEDWAY",
+    "qtdVoltas": 260,
+    "comprimentoKm": 2.000,
+    "tempoBase": 26.0,
+    "dificuldadeUltrapassagem": 60,
+    "relevanciaMotor": 0.85,
+    "relevanciaAerodinamica": 0.15,
+    "fatorDesgastePneu": 1.3,
+    "fatorConsumoCombustivel": 1.3,
+    "chanceSafetyCar": 50.0,
+    "tempoPerdidoPitLane": 20.0,
+    "arquivos": {
+      "traçado": "/resource/Circuito Getaway.svg",
+      "bandeira": "/resource/Bandeira Estados Unidos.svg"
+    }
+  },
+  {
+    "rodada": 14,
+    "nome": "Portland International Raceway",
+    "etapa": "Grand Prix of Portland",
+    "pais": "EUA",
+    "tipo": "MISTO_PERMANENTE",
+    "qtdVoltas": 110,
+    "comprimentoKm": 3.166,
+    "tempoBase": 60.0,
+    "dificuldadeUltrapassagem": 55,
+    "relevanciaMotor": 0.60,
+    "relevanciaAerodinamica": 0.40,
+    "fatorDesgastePneu": 1.2,
+    "fatorConsumoCombustivel": 1.0,
+    "chanceSafetyCar": 40.0,
+    "tempoPerdidoPitLane": 22.0,
+    "arquivos": {
+      "traçado": "/resource/Circuito Porland.svg",
+      "bandeira": "/resource/Bandeira Estados Unidos.svg"
+    }
+  },
+  {
+    "rodada": 15,
+    "nome": "Milwaukee Mile",
+    "etapa": "Hy-Vee Milwaukee Mile 250s - Race 1",
+    "pais": "EUA",
+    "tipo": "OVAL_CURTO",
+    "qtdVoltas": 250,
+    "comprimentoKm": 1.603,
+    "tempoBase": 24.0,
+    "dificuldadeUltrapassagem": 65,
+    "relevanciaMotor": 0.80,
+    "relevanciaAerodinamica": 0.20,
+    "fatorDesgastePneu": 1.7,
+    "fatorConsumoCombustivel": 1.2,
+    "chanceSafetyCar": 45.0,
+    "tempoPerdidoPitLane": 19.0,
+    "arquivos": {
+      "traçado": "/resource/Circuito Milwaukee.svg",
+      "bandeira": "/resource/Bandeira Estados Unidos.svg"
+    }
+  },
+  {
+    "rodada": 16,
+    "nome": "Milwaukee Mile",
+    "etapa": "Hy-Vee Milwaukee Mile 250s - Race 2",
+    "pais": "EUA",
+    "tipo": "OVAL_CURTO",
+    "qtdVoltas": 250,
+    "comprimentoKm": 1.603,
+    "tempoBase": 24.0,
+    "dificuldadeUltrapassagem": 65,
+    "relevanciaMotor": 0.80,
+    "relevanciaAerodinamica": 0.20,
+    "fatorDesgastePneu": 1.7,
+    "fatorConsumoCombustivel": 1.2,
+    "chanceSafetyCar": 45.0,
+    "tempoPerdidoPitLane": 19.0,
+    "arquivos": {
+      "traçado": "/resource/Circuito Milwaukee.svg",
+      "bandeira": "/resource/Bandeira Estados Unidos.svg"
+    }
+  },
+  {
+    "rodada": 17,
+    "nome": "Nashville Superspeedway",
+    "etapa": "Big Machine Music City Grand Prix",
+    "pais": "EUA",
+    "tipo": "OVAL_SPEEDWAY",
+    "qtdVoltas": 206,
+    "comprimentoKm": 2.145,
+    "tempoBase": 24.0,
+    "dificuldadeUltrapassagem": 60,
+    "relevanciaMotor": 0.90,
+    "relevanciaAerodinamica": 0.10,
+    "fatorDesgastePneu": 1.3,
+    "fatorConsumoCombustivel": 1.3,
+    "chanceSafetyCar": 60.0,
+    "tempoPerdidoPitLane": 20.0,
+    "arquivos": {
+      "traçado": "/resource/Circuito Nashville.svg",
+      "bandeira": "/resource/Bandeira Estados Unidos.png"
+    }
+  }
+]

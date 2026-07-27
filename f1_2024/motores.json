@@ -1,0 +1,50 @@
+[
+  {
+    "id": "Honda RBPT",
+    "nome": "Honda RBPTH002",
+    "potencia": 9,
+    "dirigibilidade": 8,
+    "durabilidade": 8,
+    "preco": 18.0,
+    "arquivos": {
+      "logo": "/resource/Logo Honda.svg",
+      "bandeira": "/resource/Bandeira Japao.svg"
+    }
+  },
+  {
+    "id": "Ferrari",
+    "nome": "Ferrari 066/12",
+    "potencia": 9,
+    "dirigibilidade": 7,
+    "durabilidade": 8,
+    "preco": 16.0,
+    "arquivos": {
+      "logo": "/resource/Logo Ferrari.svg",
+      "bandeira": "/resource/Bandeira Italia.svg"
+    }
+  },
+  {
+    "id": "Mercedes",
+    "nome": "Mercedes-AMG F1 M15",
+    "potencia": 8,
+    "dirigibilidade": 9,
+    "durabilidade": 9,
+    "preco": 17.5,
+    "arquivos": {
+      "logo": "/resource/Logo Mercedes.svg",
+      "bandeira": "/resource/Bandeira Alemanha.svg"
+    }
+  },
+  {
+    "id": "Renault",
+    "nome": "Renault E-Tech RE24",
+    "potencia": 7,
+    "dirigibilidade": 7,
+    "durabilidade": 7,
+    "preco": 12.5,
+    "arquivos": {
+      "logo": "/resource/Logo Renault.svg",
+      "bandeira": "/resource/Bandeira Franca.svg"
+    }
+  }
+]

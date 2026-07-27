@@ -1,0 +1,221 @@
+[
+  {
+    "id": "stake",
+    "nome": "Stake Kick",
+    "sede": "Hinwil, Suíça",
+    "fundacao": 2024,
+    "orcamento": 50.0,
+    "motor": "Ferrari",
+    "reputacao": 55,
+    "saldoFinanceiro": 990.0,
+    "arquivos": {
+      "logo": "/resource/Equipe F1 Stake.svg",
+      "bandeiraSede": "/resource/Bandeira Suica.svg",
+      "bandeiraMotor": "/resource/Bandeira Italia.svg",
+      "logoMotor": "/resource/Logo Ferrari.svg"
+    },
+    "pilotosContratadosIDs": [
+      "Valtteri Bottas",
+      "Guanyu Zhou",
+      "Zane Maloney",
+      "Théo Pourchaire"
+    ]
+  },
+  {
+    "id": "redbull",
+    "nome": "Red Bull Racing",
+    "sede": "Milton Keynes, UK",
+    "fundacao": 2005,
+    "orcamento": 140.0,
+    "motor": "Honda RBPT",
+    "reputacao": 98,
+    "saldoFinanceiro": 140.0,
+    "arquivos": {
+      "logo": "/resource/Equipe F1 RBR.svg",
+      "bandeiraSede": "/resource/Bandeira Austria.svg",
+      "bandeiraMotor": "/resource/Bandeira Japao.svg",
+      "logoMotor": "/resource/Logo Honda.svg"
+    },
+    "pilotosContratadosIDs": [
+      "Max Verstappen",
+      "Sergio Perez",
+      "Liam Lawson",
+      "Sebastien Buemi"
+    ]
+  },
+  {
+    "id": "alpine",
+    "nome": "Alpine",
+    "sede": "Enstone, UK",
+    "fundacao": 2021,
+    "orcamento": 95.0,
+    "motor": "Renault",
+    "reputacao": 75,
+    "saldoFinanceiro": 95.0,
+    "arquivos": {
+      "logo": "/resource/Equipe F1 Alpine.svg",
+      "bandeiraSede": "/resource/Bandeira Franca.svg",
+      "bandeiraMotor": "/resource/Bandeira Franca.svg",
+      "logoMotor": "/resource/Logo Renault.svg"
+    },
+    "pilotosContratadosIDs": [
+      "Pierre Gasly",
+      "Esteban Ocon",
+      "Jack Doohan"
+    ]
+  },
+  {
+    "id": "ferrari",
+    "nome": "Ferrari",
+    "sede": "Maranello, Itália",
+    "fundacao": 1929,
+    "orcamento": 138.0,
+    "motor": "Ferrari",
+    "reputacao": 97,
+    "saldoFinanceiro": 138.0,
+    "arquivos": {
+      "logo": "/resource/Equipe F1 Ferrari.svg",
+      "bandeiraSede": "/resource/Bandeira Italia.svg",
+      "bandeiraMotor": "/resource/Bandeira Italia.svg",
+      "logoMotor": "/resource/Logo Ferrari.svg"
+    },
+    "pilotosContratadosIDs": [
+      "Charles Leclerc",
+      "Carlos Sainz Jr",
+      "Robert Shwartzman",
+      "Oliver Bearman",
+      "Antonio Giovinazzi"
+    ]
+  },
+  {
+    "id": "williams",
+    "nome": "Williams",
+    "sede": "Grove, UK",
+    "fundacao": 1977,
+    "orcamento": 60.0,
+    "motor": "Mercedes",
+    "reputacao": 65,
+    "saldoFinanceiro": 60.0,
+    "arquivos": {
+      "logo": "/resource/Equipe F1 Williams.svg",
+      "bandeiraSede": "/resource/Bandeira Reino Unido.svg",
+      "bandeiraMotor": "/resource/Bandeira Alemanha.svg",
+      "logoMotor": "/resource/Logo Mercedes.svg"
+    },
+    "pilotosContratadosIDs": [
+      "Alexander Albon",
+      "Logan Sargeant"
+    ]
+  },
+  {
+    "id": "racingbulls",
+    "nome": "Racing Bulls",
+    "sede": "Faença, Itália",
+    "fundacao": 2024,
+    "orcamento": 55.0,
+    "motor": "Honda RBPT",
+    "reputacao": 60,
+    "saldoFinanceiro": 55.0,
+    "arquivos": {
+      "logo": "/resource/Equipe F1 RB.svg",
+      "bandeiraSede": "/resource/Bandeira Italia.svg",
+      "bandeiraMotor": "/resource/Bandeira Japao.svg",
+      "logoMotor": "/resource/Logo Honda.svg"
+    },
+    "pilotosContratadosIDs": [
+      "Yuki Tsunoda",
+      "Daniel Ricciardo",
+      "Liam Lawson"
+    ]
+  },
+  {
+    "id": "astonmartin",
+    "nome": "Aston Martin",
+    "sede": "Silverstone, UK",
+    "fundacao": 2021,
+    "orcamento": 110.0,
+    "motor": "Mercedes",
+    "reputacao": 85,
+    "saldoFinanceiro": 110.0,
+    "arquivos": {
+      "logo": "/resource/Equipe F1 Aston Martin.svg",
+      "bandeiraSede": "/resource/Bandeira Reino Unido.svg",
+      "bandeiraMotor": "/resource/Bandeira Alemanha.svg",
+      "logoMotor": "/resource/Logo Mercedes.svg"
+    },
+    "pilotosContratadosIDs": [
+      "Fernando Alonso",
+      "Lance Stroll",
+      "Felipe Drugovich",
+      "Stoffel Vandoorne"
+    ]
+  },
+  {
+    "id": "haas",
+    "nome": "Haas",
+    "sede": "Kannapolis, EUA",
+    "fundacao": 2016,
+    "orcamento": 45.0,
+    "motor": "Ferrari",
+    "reputacao": 50,
+    "saldoFinanceiro": 45.0,
+    "arquivos": {
+      "logo": "/resource/Equipe F1 Haas.svg",
+      "bandeiraSede": "/resource/Bandeira EUA.svg",
+      "bandeiraMotor": "/resource/Bandeira Italia.svg",
+      "logoMotor": "/resource/Logo Ferrari.svg"
+    },
+    "pilotosContratadosIDs": [
+      "Nico Hulkenberg",
+      "Kevin Magnussen",
+      "Pietro Fittipaldi",
+      "Oliver Bearman"
+    ]
+  },
+  {
+    "id": "mclaren",
+    "nome": "McLaren",
+    "sede": "Woking, UK",
+    "fundacao": 1963,
+    "orcamento": 120.0,
+    "motor": "Mercedes",
+    "reputacao": 90,
+    "saldoFinanceiro": 120.0,
+    "arquivos": {
+      "logo": "/resource/Equipe F1 McLaren.svg",
+      "bandeiraSede": "/resource/Bandeira Reino Unido.svg",
+      "bandeiraMotor": "/resource/Bandeira Alemanha.svg",
+      "logoMotor": "/resource/Logo Mercedes.svg"
+    },
+    "pilotosContratadosIDs": [
+      "Lando Norris",
+      "Oscar Piastri",
+      "Pato O'Ward",
+      "Ryo Hirakawa",
+      "Mick Schumacher",
+      "Felipe Drugovich"
+    ]
+  },
+  {
+    "id": "mercedes",
+    "nome": "Mercedes",
+    "sede": "Brackley, UK",
+    "fundacao": 1954,
+    "orcamento": 135.0,
+    "motor": "Mercedes",
+    "reputacao": 95,
+    "saldoFinanceiro": 135.0,
+    "arquivos": {
+      "logo": "/resource/Equipe F1 Mercedes.svg",
+      "bandeiraSede": "/resource/Bandeira Alemanha.svg",
+      "bandeiraMotor": "/resource/Bandeira Alemanha.svg",
+      "logoMotor": "/resource/Logo Mercedes.svg"
+    },
+    "pilotosContratadosIDs": [
+      "Lewis Hamilton",
+      "George Russell",
+      "Mick Schumacher",
+      "Frederik Vesti"
+    ]
+  }
+]
