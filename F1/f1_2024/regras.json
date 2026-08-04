@@ -14,7 +14,33 @@
     "tetoOrcamentario": 135000000.0,
     "multiplicadorSalarioBase": 3.0,
     "multiplicadorSalarioTeto": 3.0,
-    "premioPorPonto": 500000.0
+    "premioPorPonto": 500000.0,
+    "premiacaoCampeonato": {
+      "valorBase": 20.0,
+      "multiplicadoresPorPosicao": {
+        "1": 5.0,
+        "2": 4.0,
+        "3": 3.0,
+        "4": 2.86,
+        "5": 2.71,
+        "6": 2.57,
+        "7": 2.43,
+        "8": 2.29,
+        "9": 2.14,
+        "10": 2.0,
+        "11": 1.9,
+        "12": 1.8,
+        "13": 1.7,
+        "14": 1.6,
+        "15": 1.5,
+        "16": 1.4,
+        "17": 1.3,
+        "18": 1.2,
+        "19": 1.1,
+        "20": 1.0
+      },
+      "multiplicadorPadraoAposUltimaPosicaoConfigurada": 1.0
+    }
   },
   "corrida": {
     "reabastecimentoPermitido": false,
